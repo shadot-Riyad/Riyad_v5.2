@@ -97,7 +97,7 @@ const D={
   bio:"Hi, I’m Riyad — a curious learner who enjoys building things, exploring technology, and figuring out how things work.",
 
   // Icon name diye auto ashe: LinkedIn, GitHub, Facebook, X/Twitter, YouTube, Instagram, Telegram, WhatsApp, Email (onno name dile 🌐 icon)
-  socials:[["LinkedIn","https://bd.linkedin.com/in/shadot-riyad7"],["GitHub","https://github.com/shadot-Riyad"],["Facebook","https://facebook.com/Official.Riyad"],["Instagram","https://instagram.com/shadot_riyad"]],
+  socials:[["LinkedIn","https://bd.linkedin.com/in/shadot-riyad7"],["GitHub","https://github.com/shadot-Riyad"],["Facebook","https://facebook.com/Shadot.riyad"],["Instagram","https://instagram.com/shadot_riyad"]],
   stats:[["2+","Years Learning"],["10+","Projects Tested"],["100+","Test Cases"],["50+","Bugs Reported"]],
   skills:[["Manual Testing",98],["Test Case Design",88],["Playwright / Selenium",75],["API Testing (Postman)",80],["JIRA / Bug Tracking",85],["SQL Basics",80]],
   /* =====================================================================
