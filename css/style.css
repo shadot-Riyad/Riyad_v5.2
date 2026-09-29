@@ -370,3 +370,8 @@ a.ci:hover{transform:translateY(-3px);border-color:var(--pri);box-shadow:0 8px 2
 @keyframes goatIn{from{opacity:0;transform:translateX(-50%) scale(.3)}}
 .rollball{position:fixed;bottom:12px;left:-70px;font-size:3rem;z-index:201;pointer-events:none;animation:rollB 4.5s linear forwards}
 @keyframes rollB{to{left:calc(100% + 70px);rotate:1440deg}}
+
+
+
+
+
